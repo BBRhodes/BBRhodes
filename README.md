@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BolanleRhodes
+- 👋 Hi, I’m @BBRhodes
 - 👀 I’m interested in Data Science, Data Analytics, Business Analytics, Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
